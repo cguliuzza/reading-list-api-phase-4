@@ -40,3 +40,4 @@ user_1 = User.create(
   
   The series is a secondary world fantasy; the setting is named Temerant. It has its own magic system, mixing alchemy, sympathetic magic, sygaldry (a form of runic magic combined with medieval engineering), and naming (a type of magic that allows the user to command the classical elements and objects), plus others.",
     cover_image_url: "https://res.cloudinary.com/dnocv6uwb/image/upload/v1631946293/220px-TheNameoftheWind_cover_jq2xut.jpg"
+  )
